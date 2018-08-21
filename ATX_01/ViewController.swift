@@ -12,10 +12,15 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        qwe.isHighlighted = true
+        qwe.highlightedTextColor = .green
         //some comment
         //todo
         //123
         // Do any additional setup after loading the view, typically from a nib.
+        
+        //4444
+        
     }
 
     override func didReceiveMemoryWarning() {
